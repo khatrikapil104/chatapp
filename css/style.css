@@ -1,0 +1,23 @@
+.logo{
+    display: block;
+    margin: auto;
+    height: 50px;
+    width: 50px;
+}
+.container{
+    max-width: 955px;
+    margin: auto;
+    background-color: red;
+    margin: auto;
+    height: 70vh;
+
+}
+.message{
+
+}
+.left{
+
+}
+.right{
+    
+}
